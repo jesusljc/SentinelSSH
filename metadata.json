@@ -1,0 +1,6 @@
+{
+  "name": "SentinelSSH",
+  "description": "Consola SOC y agente Python para detección de fuerza bruta SSH, respuesta escalante en firewall, reputación IP y auditoría en JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

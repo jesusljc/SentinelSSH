@@ -1,0 +1,17 @@
+{
+  "umbral_alerta": 3,
+  "umbral_limitacion": 5,
+  "umbral_bloqueo": 10,
+  "ventana_minutos": 10,
+  "peso_usuario_invalido": 2,
+  "horas_desbloqueo_auto": 24,
+  "motor_firewall": "iptables",
+  "ip_administrador": "203.0.113.10",
+  "proteger_redes_privadas": true,
+  "slack_webhook_url": "",
+  "notificar_slack_en_etapa": "tasa_limitada",
+  "rutas_log_monitoreadas": [
+    "/var/log/auth.log",
+    "/var/log/secure"
+  ]
+}

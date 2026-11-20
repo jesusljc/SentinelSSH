@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mit-8506f655",
+    "ip": "45.155.205.91",
+    "etapa": "bloqueado",
+    "estado": "activa",
+    "motor_firewall": "iptables",
+    "comando_firewall": "iptables -I INPUT 1 -s 45.155.205.91 -p tcp --dport 22 -j DROP",
+    "intentos": 35,
+    "puntaje_riesgo": 59,
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "origen_ingesta": "simulador:mixto_multidistro",
+    "actualizado_en": "2026-11-19T23:33:28Z",
+    "expira_en": "2026-11-20T23:33:28Z"
+  }
+]

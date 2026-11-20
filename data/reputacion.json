@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rep-b883ea19",
+    "objetivo": "45.155.205.91/32",
+    "tipo": "lista_negra",
+    "etiqueta": "Fuerza bruta SSH (25 intentos)",
+    "protegida": false,
+    "origen": "deteccion",
+    "creado_en": "2026-11-19T23:33:26Z",
+    "incidentes": 0
+  },
+  {
+    "id": "rep-localhost",
+    "objetivo": "127.0.0.1/32",
+    "tipo": "lista_blanca",
+    "etiqueta": "Loopback local del servidor",
+    "protegida": true,
+    "origen": "sistema",
+    "creado_en": "2026-11-19T00:00:00Z",
+    "incidentes": 0
+  },
+  {
+    "id": "rep-admin",
+    "objetivo": "203.0.113.10/32",
+    "tipo": "lista_blanca",
+    "etiqueta": "IP del administrador principal",
+    "protegida": true,
+    "origen": "sistema",
+    "creado_en": "2026-11-19T00:00:00Z",
+    "incidentes": 0
+  },
+  {
+    "id": "rep-lan",
+    "objetivo": "10.0.0.0/8",
+    "tipo": "lista_blanca",
+    "etiqueta": "Red interna corporativa",
+    "protegida": true,
+    "origen": "sistema",
+    "creado_en": "2026-11-19T00:00:00Z",
+    "incidentes": 0
+  },
+  {
+    "id": "rep-oficina",
+    "objetivo": "192.168.10.0/24",
+    "tipo": "lista_blanca",
+    "etiqueta": "Oficina remota y VPN administrativa",
+    "protegida": true,
+    "origen": "manual",
+    "creado_en": "2026-11-19T00:00:00Z",
+    "incidentes": 0
+  },
+  {
+    "id": "rep-mal-1",
+    "objetivo": "185.220.101.45/32",
+    "tipo": "lista_negra",
+    "etiqueta": "Nodo escáner SSH recurrente",
+    "protegida": false,
+    "origen": "deteccion",
+    "creado_en": "2026-11-19T00:00:00Z",
+    "incidentes": 14
+  }
+]

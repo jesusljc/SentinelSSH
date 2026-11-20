@@ -1,0 +1,2812 @@
+[
+  {
+    "id": "aud-af2247d9",
+    "fecha": "2026-11-19T23:33:31Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 326
+  },
+  {
+    "id": "aud-4ed74b0c",
+    "fecha": "2026-11-19T23:33:31Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 326
+  },
+  {
+    "id": "aud-4c3eb57a",
+    "fecha": "2026-11-19T23:33:31Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 72
+  },
+  {
+    "id": "aud-42faa345",
+    "fecha": "2026-11-19T23:33:31Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 72
+  },
+  {
+    "id": "aud-36645910",
+    "fecha": "2026-11-19T23:33:30Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 66
+  },
+  {
+    "id": "aud-c11a6159",
+    "fecha": "2026-11-19T23:33:30Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.25",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "mgarcia"
+    ],
+    "intentos": 12
+  },
+  {
+    "id": "aud-77ab81c0",
+    "fecha": "2026-11-19T23:33:30Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.25",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "mgarcia"
+    ],
+    "intentos": 12
+  },
+  {
+    "id": "aud-42123589",
+    "fecha": "2026-11-19T23:33:30Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.25",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "mgarcia"
+    ],
+    "intentos": 12
+  },
+  {
+    "id": "aud-0481795b",
+    "fecha": "2026-11-19T23:33:30Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.25",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "mgarcia"
+    ],
+    "intentos": 12
+  },
+  {
+    "id": "aud-3a52fb0f",
+    "fecha": "2026-11-19T23:33:29Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 42
+  },
+  {
+    "id": "aud-a5d481f1",
+    "fecha": "2026-11-19T23:33:29Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 42
+  },
+  {
+    "id": "aud-e8ee5031",
+    "fecha": "2026-11-19T23:33:29Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 42
+  },
+  {
+    "id": "aud-fb4bd2d1",
+    "fecha": "2026-11-19T23:33:29Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 42
+  },
+  {
+    "id": "aud-03edbb2a",
+    "fecha": "2026-11-19T23:33:29Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 42
+  },
+  {
+    "id": "aud-f947461b",
+    "fecha": "2026-11-19T23:33:28Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 36
+  },
+  {
+    "id": "aud-a44c4d78",
+    "fecha": "2026-11-19T23:33:28Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 36
+  },
+  {
+    "id": "aud-791bca9d",
+    "fecha": "2026-11-19T23:33:28Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 36
+  },
+  {
+    "id": "aud-9d304982",
+    "fecha": "2026-11-19T23:33:26Z",
+    "tipo": "bloqueo",
+    "ip": "45.155.205.91",
+    "etapa": "bloqueado",
+    "accion": "Respuesta escalante: bloqueado",
+    "detalle": "Origen: simulador:mixto_multidistro. Comando: iptables -I INPUT 1 -s 45.155.205.91 -p tcp --dport 22 -j DROP",
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "intentos": 25
+  },
+  {
+    "id": "aud-bf3a2c90",
+    "fecha": "2026-11-19T23:33:25Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.25",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "mgarcia"
+    ],
+    "intentos": 10
+  },
+  {
+    "id": "aud-8d527e77",
+    "fecha": "2026-11-19T23:33:25Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.25",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "mgarcia"
+    ],
+    "intentos": 10
+  },
+  {
+    "id": "aud-b6e87d1b",
+    "fecha": "2026-11-19T23:33:24Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.25",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "mgarcia"
+    ],
+    "intentos": 8
+  },
+  {
+    "id": "aud-839ee463",
+    "fecha": "2026-11-19T23:33:24Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.25",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "mgarcia"
+    ],
+    "intentos": 8
+  },
+  {
+    "id": "aud-7c3c0fa1",
+    "fecha": "2026-11-19T23:33:24Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 60
+  },
+  {
+    "id": "aud-f03b88c8",
+    "fecha": "2026-11-19T23:33:24Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 60
+  },
+  {
+    "id": "aud-3ce812a8",
+    "fecha": "2026-11-19T23:33:23Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 54
+  },
+  {
+    "id": "aud-742b6cd8",
+    "fecha": "2026-11-19T23:33:23Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 54
+  },
+  {
+    "id": "aud-68ffd63c",
+    "fecha": "2026-11-19T23:33:22Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 48
+  },
+  {
+    "id": "aud-12d5d5af",
+    "fecha": "2026-11-19T23:33:22Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 48
+  },
+  {
+    "id": "aud-b506d014",
+    "fecha": "2026-11-19T23:33:21Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 42
+  },
+  {
+    "id": "aud-65812884",
+    "fecha": "2026-11-19T23:33:21Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 42
+  },
+  {
+    "id": "aud-9b1c1f4d",
+    "fecha": "2026-11-19T23:33:20Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 36
+  },
+  {
+    "id": "aud-2f7d0fce",
+    "fecha": "2026-11-19T23:33:13Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 385
+  },
+  {
+    "id": "aud-3366ce4c",
+    "fecha": "2026-11-19T23:33:13Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 385
+  },
+  {
+    "id": "aud-01c55c90",
+    "fecha": "2026-11-19T23:33:12Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 374
+  },
+  {
+    "id": "aud-d318015b",
+    "fecha": "2026-11-19T23:33:12Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 374
+  },
+  {
+    "id": "aud-080204de",
+    "fecha": "2026-11-19T23:33:11Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 363
+  },
+  {
+    "id": "aud-ea4c7a69",
+    "fecha": "2026-11-19T23:33:11Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 363
+  },
+  {
+    "id": "aud-8e342bd3",
+    "fecha": "2026-11-19T23:33:10Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 352
+  },
+  {
+    "id": "aud-8d834701",
+    "fecha": "2026-11-19T23:33:10Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 352
+  },
+  {
+    "id": "aud-62244f42",
+    "fecha": "2026-11-19T23:33:09Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 341
+  },
+  {
+    "id": "aud-8dec3019",
+    "fecha": "2026-11-19T23:33:09Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 341
+  },
+  {
+    "id": "aud-545ba3f5",
+    "fecha": "2026-11-19T23:33:08Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 330
+  },
+  {
+    "id": "aud-da71c37a",
+    "fecha": "2026-11-19T23:33:08Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 330
+  },
+  {
+    "id": "aud-6bfdee99",
+    "fecha": "2026-11-19T23:33:07Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 319
+  },
+  {
+    "id": "aud-5d7d658d",
+    "fecha": "2026-11-19T23:33:07Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 319
+  },
+  {
+    "id": "aud-60829f23",
+    "fecha": "2026-11-19T23:33:06Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 308
+  },
+  {
+    "id": "aud-117a0e41",
+    "fecha": "2026-11-19T23:33:06Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 308
+  },
+  {
+    "id": "aud-15b844ff",
+    "fecha": "2026-11-19T23:33:05Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 297
+  },
+  {
+    "id": "aud-8d234314",
+    "fecha": "2026-11-19T23:33:04Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 286
+  },
+  {
+    "id": "aud-7bfc26a8",
+    "fecha": "2026-11-19T23:33:04Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 286
+  },
+  {
+    "id": "aud-558902c6",
+    "fecha": "2026-11-19T23:33:03Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 275
+  },
+  {
+    "id": "aud-990eadba",
+    "fecha": "2026-11-19T23:33:02Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 264
+  },
+  {
+    "id": "aud-d6c68137",
+    "fecha": "2026-11-19T23:28:17Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 264
+  },
+  {
+    "id": "aud-1f7cb965",
+    "fecha": "2026-11-19T23:28:17Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 264
+  },
+  {
+    "id": "aud-06014189",
+    "fecha": "2026-11-19T23:28:17Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 264
+  },
+  {
+    "id": "aud-3339e7d4",
+    "fecha": "2026-11-19T23:28:17Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 264
+  },
+  {
+    "id": "aud-76fb586e",
+    "fecha": "2026-11-19T23:28:16Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 253
+  },
+  {
+    "id": "aud-f9b71bde",
+    "fecha": "2026-11-19T23:28:16Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 253
+  },
+  {
+    "id": "aud-148e46b5",
+    "fecha": "2026-11-19T23:28:16Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 253
+  },
+  {
+    "id": "aud-7b16d81e",
+    "fecha": "2026-11-19T23:28:16Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 253
+  },
+  {
+    "id": "aud-0379cdea",
+    "fecha": "2026-11-19T23:28:15Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 242
+  },
+  {
+    "id": "aud-75ee9961",
+    "fecha": "2026-11-19T23:28:15Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 242
+  },
+  {
+    "id": "aud-0f697485",
+    "fecha": "2026-11-19T23:28:15Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 242
+  },
+  {
+    "id": "aud-c571f122",
+    "fecha": "2026-11-19T23:28:14Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 231
+  },
+  {
+    "id": "aud-8dfebc49",
+    "fecha": "2026-11-19T23:26:27Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 220
+  },
+  {
+    "id": "aud-8893c2ca",
+    "fecha": "2026-11-19T23:26:27Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 220
+  },
+  {
+    "id": "aud-dd769a29",
+    "fecha": "2026-11-19T23:26:27Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 220
+  },
+  {
+    "id": "aud-e644070e",
+    "fecha": "2026-11-19T23:26:27Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 220
+  },
+  {
+    "id": "aud-1fa30ad5",
+    "fecha": "2026-11-19T23:26:27Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 220
+  },
+  {
+    "id": "aud-bc3f399b",
+    "fecha": "2026-11-19T23:26:27Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 220
+  },
+  {
+    "id": "aud-e160e639",
+    "fecha": "2026-11-19T23:26:26Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 209
+  },
+  {
+    "id": "aud-b2e583aa",
+    "fecha": "2026-11-19T23:26:26Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 209
+  },
+  {
+    "id": "aud-1c69f6a5",
+    "fecha": "2026-11-19T23:26:26Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 209
+  },
+  {
+    "id": "aud-b0e6db7f",
+    "fecha": "2026-11-19T23:26:26Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 209
+  },
+  {
+    "id": "aud-dc4f786d",
+    "fecha": "2026-11-19T23:26:26Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 209
+  },
+  {
+    "id": "aud-8ca9b13c",
+    "fecha": "2026-11-19T23:26:25Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 198
+  },
+  {
+    "id": "aud-a8754939",
+    "fecha": "2026-11-19T23:26:25Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 36
+  },
+  {
+    "id": "aud-a3c1b2f8",
+    "fecha": "2026-11-19T23:26:25Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 36
+  },
+  {
+    "id": "aud-f35fd62e",
+    "fecha": "2026-11-19T23:26:25Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 36
+  },
+  {
+    "id": "aud-69999306",
+    "fecha": "2026-11-19T23:26:24Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.25",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "mgarcia"
+    ],
+    "intentos": 8
+  },
+  {
+    "id": "aud-73348938",
+    "fecha": "2026-11-19T23:26:24Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.25",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "mgarcia"
+    ],
+    "intentos": 8
+  },
+  {
+    "id": "aud-ff7f52b1",
+    "fecha": "2026-11-19T23:26:24Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.25",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "mgarcia"
+    ],
+    "intentos": 8
+  },
+  {
+    "id": "aud-5e48a6d5",
+    "fecha": "2026-11-19T23:26:23Z",
+    "tipo": "salvaguarda",
+    "ip": "45.155.205.91",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Incluida en lista blanca: Marcado desde resumen SOC como acceso legítimo",
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "intentos": 25
+  },
+  {
+    "id": "aud-649be2dc",
+    "fecha": "2026-11-19T23:26:23Z",
+    "tipo": "salvaguarda",
+    "ip": "45.155.205.91",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Incluida en lista blanca: Marcado desde resumen SOC como acceso legítimo",
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "intentos": 25
+  },
+  {
+    "id": "aud-4ed3e05e",
+    "fecha": "2026-11-19T23:26:23Z",
+    "tipo": "salvaguarda",
+    "ip": "45.155.205.91",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Incluida en lista blanca: Marcado desde resumen SOC como acceso legítimo",
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "intentos": 25
+  },
+  {
+    "id": "aud-c77d28bc",
+    "fecha": "2026-11-19T23:26:23Z",
+    "tipo": "salvaguarda",
+    "ip": "45.155.205.91",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Incluida en lista blanca: Marcado desde resumen SOC como acceso legítimo",
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "intentos": 25
+  },
+  {
+    "id": "aud-e31ebdb5",
+    "fecha": "2026-11-19T23:26:22Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 36
+  },
+  {
+    "id": "aud-a20ca7da",
+    "fecha": "2026-11-19T23:26:22Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 36
+  },
+  {
+    "id": "aud-1525c4ff",
+    "fecha": "2026-11-19T23:26:22Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 36
+  },
+  {
+    "id": "aud-2af035e9",
+    "fecha": "2026-11-19T23:26:22Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 36
+  },
+  {
+    "id": "aud-682b6f85",
+    "fecha": "2026-11-19T23:26:22Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 36
+  },
+  {
+    "id": "aud-d6ffba75",
+    "fecha": "2026-11-19T23:26:21Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 30
+  },
+  {
+    "id": "aud-4546a7a6",
+    "fecha": "2026-11-19T23:26:21Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 30
+  },
+  {
+    "id": "aud-277ab02d",
+    "fecha": "2026-11-19T23:26:21Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 30
+  },
+  {
+    "id": "aud-df92fc72",
+    "fecha": "2026-11-19T23:26:21Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 30
+  },
+  {
+    "id": "aud-6633c702",
+    "fecha": "2026-11-19T23:26:20Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 24
+  },
+  {
+    "id": "aud-cdcd8816",
+    "fecha": "2026-11-19T23:26:20Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 24
+  },
+  {
+    "id": "aud-38fb6709",
+    "fecha": "2026-11-19T23:26:20Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 24
+  },
+  {
+    "id": "aud-a50ce699",
+    "fecha": "2026-11-19T23:26:20Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 24
+  },
+  {
+    "id": "aud-67c6fb46",
+    "fecha": "2026-11-19T23:26:19Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 187
+  },
+  {
+    "id": "aud-e1d37a7b",
+    "fecha": "2026-11-19T23:26:19Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 187
+  },
+  {
+    "id": "aud-4ebb8a7a",
+    "fecha": "2026-11-19T23:26:19Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 187
+  },
+  {
+    "id": "aud-717e6e89",
+    "fecha": "2026-11-19T23:26:18Z",
+    "tipo": "salvaguarda",
+    "ip": "45.155.205.91",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Incluida en lista blanca: Marcado desde resumen SOC como acceso legítimo",
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "intentos": 20
+  },
+  {
+    "id": "aud-38af399e",
+    "fecha": "2026-11-19T23:26:18Z",
+    "tipo": "salvaguarda",
+    "ip": "45.155.205.91",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Incluida en lista blanca: Marcado desde resumen SOC como acceso legítimo",
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "intentos": 20
+  },
+  {
+    "id": "aud-bfa44e3d",
+    "fecha": "2026-11-19T23:26:18Z",
+    "tipo": "salvaguarda",
+    "ip": "45.155.205.91",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Incluida en lista blanca: Marcado desde resumen SOC como acceso legítimo",
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "intentos": 20
+  },
+  {
+    "id": "aud-a9a7b4b5",
+    "fecha": "2026-11-19T23:26:17Z",
+    "tipo": "salvaguarda",
+    "ip": "45.155.205.91",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Incluida en lista blanca: Marcado desde resumen SOC como acceso legítimo",
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "intentos": 15
+  },
+  {
+    "id": "aud-c48ac111",
+    "fecha": "2026-11-19T23:26:17Z",
+    "tipo": "salvaguarda",
+    "ip": "45.155.205.91",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Incluida en lista blanca: Marcado desde resumen SOC como acceso legítimo",
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "intentos": 15
+  },
+  {
+    "id": "aud-f9ae0d22",
+    "fecha": "2026-11-19T23:26:17Z",
+    "tipo": "salvaguarda",
+    "ip": "45.155.205.91",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Incluida en lista blanca: Marcado desde resumen SOC como acceso legítimo",
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "intentos": 15
+  },
+  {
+    "id": "aud-d1c7bbed",
+    "fecha": "2026-11-19T23:26:17Z",
+    "tipo": "salvaguarda",
+    "ip": "45.155.205.91",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Incluida en lista blanca: Marcado desde resumen SOC como acceso legítimo",
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "intentos": 15
+  },
+  {
+    "id": "aud-63820d08",
+    "fecha": "2026-11-19T23:26:17Z",
+    "tipo": "salvaguarda",
+    "ip": "45.155.205.91",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Incluida en lista blanca: Marcado desde resumen SOC como acceso legítimo",
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "intentos": 15
+  },
+  {
+    "id": "aud-f10d01f0",
+    "fecha": "2026-11-19T23:26:16Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 18
+  },
+  {
+    "id": "aud-bd27a136",
+    "fecha": "2026-11-19T23:26:16Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 18
+  },
+  {
+    "id": "aud-863677a8",
+    "fecha": "2026-11-19T23:26:16Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 18
+  },
+  {
+    "id": "aud-281a8bf6",
+    "fecha": "2026-11-19T23:26:15Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.25",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "mgarcia"
+    ],
+    "intentos": 6
+  },
+  {
+    "id": "aud-79cff25e",
+    "fecha": "2026-11-19T23:26:15Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.25",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "mgarcia"
+    ],
+    "intentos": 6
+  },
+  {
+    "id": "aud-f9494354",
+    "fecha": "2026-11-19T23:26:15Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.25",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "mgarcia"
+    ],
+    "intentos": 6
+  },
+  {
+    "id": "aud-e16040a5",
+    "fecha": "2026-11-19T23:26:15Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.25",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "mgarcia"
+    ],
+    "intentos": 6
+  },
+  {
+    "id": "aud-069fb26c",
+    "fecha": "2026-11-19T23:26:14Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 30
+  },
+  {
+    "id": "aud-0d4415bc",
+    "fecha": "2026-11-19T23:26:14Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 30
+  },
+  {
+    "id": "aud-41fc4066",
+    "fecha": "2026-11-19T23:26:14Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 30
+  },
+  {
+    "id": "aud-40f9f0ef",
+    "fecha": "2026-11-19T23:26:14Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 30
+  },
+  {
+    "id": "aud-f19129fd",
+    "fecha": "2026-11-19T23:26:14Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 30
+  },
+  {
+    "id": "aud-64f1b590",
+    "fecha": "2026-11-19T23:26:13Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 24
+  },
+  {
+    "id": "aud-1d119a40",
+    "fecha": "2026-11-19T23:26:13Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 24
+  },
+  {
+    "id": "aud-065d4c1c",
+    "fecha": "2026-11-19T23:26:13Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 176
+  },
+  {
+    "id": "aud-99f11e78",
+    "fecha": "2026-11-19T23:26:13Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 176
+  },
+  {
+    "id": "aud-e8f6198c",
+    "fecha": "2026-11-19T23:26:13Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 176
+  },
+  {
+    "id": "aud-20df00da",
+    "fecha": "2026-11-19T23:26:12Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 165
+  },
+  {
+    "id": "aud-fb145687",
+    "fecha": "2026-11-19T23:26:12Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 165
+  },
+  {
+    "id": "aud-7ad5e8df",
+    "fecha": "2026-11-19T23:26:12Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 165
+  },
+  {
+    "id": "aud-10291e97",
+    "fecha": "2026-11-19T23:26:12Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 165
+  },
+  {
+    "id": "aud-76227c17",
+    "fecha": "2026-11-19T23:26:12Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 165
+  },
+  {
+    "id": "aud-32c4b8bd",
+    "fecha": "2026-11-19T23:26:11Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 154
+  },
+  {
+    "id": "aud-6d604fbb",
+    "fecha": "2026-11-19T23:26:11Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 154
+  },
+  {
+    "id": "aud-cdd124c9",
+    "fecha": "2026-11-19T23:26:11Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 154
+  },
+  {
+    "id": "aud-36511bbe",
+    "fecha": "2026-11-19T23:26:10Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 143
+  },
+  {
+    "id": "aud-33628f50",
+    "fecha": "2026-11-19T23:26:10Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 143
+  },
+  {
+    "id": "aud-4e53fc94",
+    "fecha": "2026-11-19T23:26:09Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 132
+  },
+  {
+    "id": "aud-8e302741",
+    "fecha": "2026-11-19T23:25:46Z",
+    "tipo": "salvaguarda",
+    "ip": "45.155.205.91",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Incluida en lista blanca: Marcado desde resumen SOC como acceso legítimo",
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "intentos": 10
+  },
+  {
+    "id": "aud-49c6e20a",
+    "fecha": "2026-11-19T23:25:46Z",
+    "tipo": "salvaguarda",
+    "ip": "45.155.205.91",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Incluida en lista blanca: Marcado desde resumen SOC como acceso legítimo",
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "intentos": 10
+  },
+  {
+    "id": "aud-6ca57683",
+    "fecha": "2026-11-19T23:25:45Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 12
+  },
+  {
+    "id": "aud-135793ef",
+    "fecha": "2026-11-19T23:25:45Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 12
+  },
+  {
+    "id": "aud-e1731738",
+    "fecha": "2026-11-19T23:25:45Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 12
+  },
+  {
+    "id": "aud-9bd5e63b",
+    "fecha": "2026-11-19T23:25:44Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.25",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "mgarcia"
+    ],
+    "intentos": 4
+  },
+  {
+    "id": "aud-428a9a73",
+    "fecha": "2026-11-19T23:25:44Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.25",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "mgarcia"
+    ],
+    "intentos": 4
+  },
+  {
+    "id": "aud-4ed0656a",
+    "fecha": "2026-11-19T23:25:43Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 18
+  },
+  {
+    "id": "aud-1477bf10",
+    "fecha": "2026-11-19T23:25:42Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 12
+  },
+  {
+    "id": "aud-d9a753dd",
+    "fecha": "2026-11-19T23:25:42Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 121
+  },
+  {
+    "id": "aud-0c4498d0",
+    "fecha": "2026-11-19T23:25:41Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 110
+  },
+  {
+    "id": "aud-aad0c884",
+    "fecha": "2026-11-19T23:25:41Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 110
+  },
+  {
+    "id": "aud-249bc432",
+    "fecha": "2026-11-19T23:25:40Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 99
+  },
+  {
+    "id": "aud-d43c9555",
+    "fecha": "2026-11-19T23:25:39Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 88
+  },
+  {
+    "id": "aud-180615c2",
+    "fecha": "2026-11-19T23:25:38Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 77
+  },
+  {
+    "id": "aud-c4695c3a",
+    "fecha": "2026-11-19T23:25:37Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 66
+  },
+  {
+    "id": "aud-d6d79c3c",
+    "fecha": "2026-11-19T23:25:36Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 55
+  },
+  {
+    "id": "aud-5878a424",
+    "fecha": "2026-11-19T23:25:35Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 44
+  },
+  {
+    "id": "aud-8b9c0b7e",
+    "fecha": "2026-11-19T23:25:33Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 33
+  },
+  {
+    "id": "aud-253f60c3",
+    "fecha": "2026-11-19T23:25:32Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 22
+  },
+  {
+    "id": "aud-848bf4a9",
+    "fecha": "2026-11-19T23:23:55Z",
+    "tipo": "falso_positivo",
+    "ip": "45.155.205.91",
+    "etapa": "observacion",
+    "accion": "Marcada como falso positivo y movida a lista blanca",
+    "detalle": "Regla revertida: iptables -D INPUT -s 45.155.205.91 -p tcp --dport 22 -m hashlimit --hashlimit-above 3/min --hashlimit-burst 3 --hashlimit-mode srcip --hashlimit-name ssh_limit -j DROP",
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "intentos": 5
+  },
+  {
+    "id": "aud-af2f4c4c",
+    "fecha": "2026-11-19T23:21:38Z",
+    "tipo": "deteccion",
+    "ip": "45.155.205.91",
+    "etapa": "tasa_limitada",
+    "accion": "Respuesta escalante: tasa_limitada",
+    "detalle": "Origen: simulador:mixto_multidistro. Comando: iptables -I INPUT 1 -s 45.155.205.91 -p tcp --dport 22 -m hashlimit --hashlimit-above 3/min --hashlimit-burst 3 --hashlimit-mode srcip --hashlimit-name ssh_limit -j DROP",
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "intentos": 5
+  },
+  {
+    "id": "aud-18b74ec5",
+    "fecha": "2026-11-19T23:21:32Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.10",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "IP protegida del administrador (203.0.113.10)",
+    "usuarios": [
+      "sysadmin"
+    ],
+    "intentos": 6
+  },
+  {
+    "id": "aud-82402035",
+    "fecha": "2026-11-19T23:21:20Z",
+    "tipo": "salvaguarda",
+    "ip": "203.0.113.210",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "carlos",
+      "lucia",
+      "devops",
+      "soporte",
+      "backup",
+      "ansible"
+    ],
+    "intentos": 6
+  },
+  {
+    "id": "aud-cd408431",
+    "fecha": "2026-11-19T23:21:15Z",
+    "tipo": "salvaguarda",
+    "ip": "198.51.100.77",
+    "etapa": "observacion",
+    "accion": "Bloqueo prevenido por salvaguarda",
+    "detalle": "Red privada RFC1918 protegida por política",
+    "usuarios": [
+      "root",
+      "admin",
+      "ubuntu",
+      "postgres",
+      "oracle",
+      "test",
+      "git",
+      "deploy"
+    ],
+    "intentos": 11
+  }
+]

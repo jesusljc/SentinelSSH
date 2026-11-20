@@ -1,0 +1,32 @@
+[
+  {
+    "id": "alt-3408ff12",
+    "fecha": "2026-11-19T23:33:26Z",
+    "ip": "45.155.205.91",
+    "etapa": "bloqueado",
+    "intentos": 25,
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "comando_firewall": "iptables -I INPUT 1 -s 45.155.205.91 -p tcp --dport 22 -j DROP",
+    "mensaje": "Escalamiento a bloqueado tras 25 fallos en 10 min.",
+    "slack_enviado": false
+  },
+  {
+    "id": "alt-97a15216",
+    "fecha": "2026-11-19T23:21:38Z",
+    "ip": "45.155.205.91",
+    "etapa": "tasa_limitada",
+    "intentos": 5,
+    "usuarios": [
+      "miner",
+      "admin",
+      "root"
+    ],
+    "comando_firewall": "iptables -I INPUT 1 -s 45.155.205.91 -p tcp --dport 22 -m hashlimit --hashlimit-above 3/min --hashlimit-burst 3 --hashlimit-mode srcip --hashlimit-name ssh_limit -j DROP",
+    "mensaje": "Escalamiento a tasa_limitada tras 5 fallos en 10 min.",
+    "slack_enviado": false
+  }
+]
